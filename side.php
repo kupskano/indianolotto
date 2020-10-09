@@ -1,10 +1,11 @@
 <aside class="main-sidebar elevation-4 bg-success text-light">
     <!-- Brand Logo --><!-- sidebar-dark-primary  -->
-    <a href="#" class="brand-link">
-      <img src="dist/img/lottoindia.png" alt="AdminLTE Logo" class="brand-image img-circle elevation-3"
-           style="opacity: .8">
-      <span class="brand-text font-weight-light">Lotto India 365</span>
-    </a>
+    <div class="col-12 ">
+      <a href="#" class="brand-link">
+        <img src="dist/img/lotto india logo.png" alt="AdminLTE Logo" class="blast-img brand-image" style="padding: 0;">
+        <!-- <span class="brand-text font-weight-light">Lotto India 365</span> -->
+      </a>
+    </div>
 
     <!-- Sidebar -->
     <div class="sidebar">
@@ -24,7 +25,7 @@
         <ul class="nav nav-pills nav-sidebar flex-column" data-widget="treeview" role="menu" data-accordion="false">
           <li class="nav-item">
             <a href="index.php" class="nav-link">
-              <i class="nav-icon fas fa-th"></i>
+              <i class="fas fa-th text-light mr-1"></i>
               <p class="text-white">
                 NEWS
                 <!-- <span class="right badge badge-danger">New</span> -->
@@ -34,7 +35,7 @@
 
           <li class="nav-item">
             <a href="how_to_play.php" class="nav-link">
-              <i class="nav-icon fas fa-dice-five"></i>
+              <i class="fas fa-dice-five p-0 m-0 mr-1 text-light"></i>
               <p class="text-white">
                 HOW TO PLAY
                 <!-- <span class="right badge badge-danger">New</span> -->
