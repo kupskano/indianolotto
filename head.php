@@ -8,6 +8,7 @@
   <title>AdminLTE 3 | Dashboard 2</title>
 
   <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="cloud.css">
   <!-- Font Awesome Icons -->
   <link rel="stylesheet" href="plugins/fontawesome-free/css/all.min.css">
   <!-- overlayScrollbars -->
@@ -18,7 +19,7 @@
   <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400i,700" rel="stylesheet">
 </head>
 <body class="hold-transition sidebar-mini layout-fixed layout-navbar-fixed layout-footer-fixed">
-<div class="wrapper">
+<div class="wrapper" style="background: linear-gradient(0deg, rgba(0,0,0,1) 0%, rgba(12,38,129,1) 100%); height: 100%;">
   
 
   <!-- Navbar -->

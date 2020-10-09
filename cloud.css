@@ -1,0 +1,72 @@
+#cloud {
+    width: 245px;
+    height: 96px;
+    background-image: url("dist/img/cloud large.png");
+    z-index: 1;
+    position: fixed;
+    top: 6vh;
+    animation-name: sample;
+    animation-duration: 7s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in;
+    opacity: .8;
+    mix-blend-mode: soft-light;
+}
+
+@keyframes sample {
+    from {
+        right: -287px;
+    }
+    to {
+        right: 363px;
+    }
+}
+
+#star {
+    width: 52px;
+    height: 51px;
+    background-image: url("dist/img/star.png");
+    z-index: 0;
+    position: fixed;
+    top: 19vh;
+    animation-name: starla;
+    animation-duration: 3s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in;
+    mix-blend-mode: soft-light;
+}
+
+@keyframes starla {
+    from {
+        right: -287px;
+        transform: rotate(0deg);
+    }
+    to {
+        right: 363px;
+        transform: rotate(180deg);
+    }
+}
+
+#clouds {
+    width: 185px;
+    height: 88px;
+    background-image: url("dist/img/cloud small.png");
+    z-index: 0;
+    position: fixed;
+    top: 28vh;
+    animation-name: sample2;
+    animation-duration: 7s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in;
+    opacity: .8;
+    mix-blend-mode: soft-light;
+}
+
+@keyframes sample2 {
+    from {
+        right: -387px;
+    }
+    to {
+        right: 463px;
+    }
+}

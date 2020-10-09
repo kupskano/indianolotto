@@ -3,7 +3,7 @@
 
   <br>
 
-  <p class="m-0 px-2 col-10 mx-auto mt-4" style=" border-left-style: dashed; border-right: dashed; color: darkolivegreen; ">Ever wished you could play a big international lottery like Powerball, Mega Millions, and EuroMillions? Now you can play these incredible games online from India. American lotteries are not subject to Indian gambling restrictions, so you can play from anywhere in the country on your computer or phone. You'll have the chance to win jackpots that are much larger than the Indian lottery top prizes.</p>
+  <p class="m-0 px-2 col-10 mx-auto mt-4" style=" border-left-style: dashed; border-right: dashed; color: white; ">Ever wished you could play a big international lottery like Powerball, Mega Millions, and EuroMillions? Now you can play these incredible games online from India. American lotteries are not subject to Indian gambling restrictions, so you can play from anywhere in the country on your computer or phone. You'll have the chance to win jackpots that are much larger than the Indian lottery top prizes.</p>
       
       <!-- card ito -->
 
@@ -35,7 +35,7 @@
         </ul>
       </div>
       
-      <div class="col-10 mx-auto p-2 m-0 mt-4">
+      <div class="col-10 mx-auto p-2 m-0 mt-4 text-light">
       <p>If you win a prize, you'll receive a text/SMS or email to the email address provided when you registered your account. You can also view the results for each lottery on the lottery pages shortly after each draw has taken place.</p>
       <p>Winnings are paid directly into your online account. The prize winnings can then be withdrawn or used for future ticket purchases.</p>
       <p>Check out the stories of a woman from Panama who won $30 million on Florida Lotto, and an Iraqi man who won an Oregon Megabucks jackpot of $6.4 million, to find out how easy it is to win an international lottery prize for yourself.</p>
