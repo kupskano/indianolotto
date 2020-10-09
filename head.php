@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="x-ua-compatible" content="ie=edge">
 
-  <title>AdminLTE 3 | Dashboard 2</title>
+  <title>Lotto India 365 | PLAY NOW!</title>
 
   <link rel="stylesheet" href="style.css">
   <link rel="stylesheet" href="cloud.css">
@@ -18,8 +18,9 @@
   <!-- Google Font: Source Sans Pro -->
   <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400i,700" rel="stylesheet">
 </head>
-<body class="hold-transition sidebar-mini layout-fixed layout-navbar-fixed layout-footer-fixed">
-<div class="wrapper" style="background: linear-gradient(0deg, rgba(0,0,0,1) 0%, rgba(12,38,129,1) 100%); height: 100%;">
+<body class="hold-transition sidebar-mini layout-fixed layout-navbar-fixed layout-footer-fixed" style="background: linear-gradient(0deg, rgba(0,0,0,1) 0%, rgba(12,38,129,1) 100%); height: 100%; 
+   ">
+<div class="col-12 p-0 m-0 mx-auto" >
   
 
   <!-- Navbar -->

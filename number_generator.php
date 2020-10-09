@@ -2,30 +2,23 @@
 <?php include "side.php"; ?>
 <?php include "cloud.php";?>
 
-
-  <br>
-  <center>
   		<!-- <form method="POST"> -->
-  		<div class="container" style="padding-top: 10rem;">
-  			<div class="card" style="width: 18rem;">
-			  <div class="card-body">
-			    <h5 class="card-title">GENERATED LOTTO NUMBERS</h5>
+  			<div class="card mx-auto mt-4 col-10">
+			  <div class="card-body text-center">
+			    <h5 class="card-title mx-auto col-12">GENERATED LOTTO NUMBERS</h5>
 			   <p class="card-text" id="numbers" >1 - 2 - 3 - 4 - 5 - 6</p>
-			    <a  class="btn btn-primary"  onclick="generate(6, 1, 60);">Generate Number</a>
+			    <a  class="btn btn-primary text-light mx-auto"  onclick="generate(6, 1, 60);">Generate Number</a>
 			  </div>
 			  <br>
-			  <button class="btn btn-info submit_generated_num" type="submit" name="">Submit Generated Numbers</button>
+			  <button class="btn btn-info mx-auto submit_generated_num" type="submit" name="">Submit Generated Numbers</button>
 			</div>
-  		</div>
   		<!-- </form> -->
-  		
-  		
-  	</center>
-    
- 
+		  
+
 
 <?php include "footer.php" ?>
 <script src="script/swal.js"></script>
+
 <script type="text/javascript">
     	function generate(size, lowest, highest) {
 	var numbers = [];
