@@ -35,9 +35,59 @@
 
           <li class="nav-item">
             <a href="how_to_play.php" class="nav-link">
-              <i class="fas fa-dice-five p-0 m-0 mr-1 text-light"></i>
+            <i class="fas fa-question-circle p-0 m-0 mr-1 text-light"></i>
               <p class="text-white">
                 HOW TO PLAY
+                <!-- <span class="right badge badge-danger">New</span> -->
+              </p>
+            </a>
+          </li>
+
+          <li class="nav-item">
+            <a href="number_generator.php" class="nav-link">
+              <i class="fa fa-qrcode p-0 m-0 mr-1 text-light"></i>
+              <p class="text-white">
+                GENERATE NUMBERS
+                <!-- <span class="right badge badge-danger">New</span> -->
+              </p>
+            </a>
+          </li>
+
+          <li class="nav-item">
+            <a href="last_result.php" class="nav-link">
+              <i class="fa fa-list-alt p-0 m-0 mr-1 text-light"></i>
+              <p class="text-white">
+                LAST RESULT
+                <!-- <span class="right badge badge-danger">New</span> -->
+              </p>
+            </a>
+          </li>
+
+          <li class="nav-item">
+            <a href="last_10_result.php" class="nav-link">
+              <i class="fa fa-list-alt p-0 m-0 mr-1 text-light"></i>
+              <p class="text-white">
+                LAST 10 RESULTS
+                <!-- <span class="right badge badge-danger">New</span> -->
+              </p>
+            </a>
+          </li>
+
+          <li class="nav-item">
+            <a href="last_year_result.php" class="nav-link">
+              <i class="fa fa-list-alt p-0 m-0 mr-1 text-light"></i>
+              <p class="text-white">
+                LAST YEAR RESULTS
+                <!-- <span class="right badge badge-danger">New</span> -->
+              </p>
+            </a>
+          </li>
+
+          <li class="nav-item">
+            <a href="filter_by_year.php" class="nav-link">
+              <i class="fas fa-search p-0 m-0 mr-1 text-light"></i>
+              <p class="text-white">
+                FILTER BY YEAR
                 <!-- <span class="right badge badge-danger">New</span> -->
               </p>
             </a>

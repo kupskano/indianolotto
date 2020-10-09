@@ -1,5 +1,6 @@
 <?php include "head.php"; ?>
 <?php include "side.php"; ?>
+<?php include "cloud.php";?>
 
   <br>
 
