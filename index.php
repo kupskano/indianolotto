@@ -1,9 +1,20 @@
+<?php 
+error_reporting(E_ALL ^ E_NOTICE);
+include 'phpfunction/myfunction.php';
+session_start();
+if(!isset($_SESSION['username'])){
+  header("Location: ../login.php");
+}
+
+?>
 <?php include "head.php"; ?>
 <?php include "side.php"; ?>
 <?php include "cloud.php";?>
-
   <br>
-
+<p style="display: none;">
+<?php echo strtoupper($_SESSION['username']);?>
+  
+</p>
   <div class="card col-10 mx-auto p-0 mt-4">
     <img src="dist/img/kinginamokerala.jpg" class="card-img-top" alt="news1">
     <div class="card-body">

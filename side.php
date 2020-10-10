@@ -92,6 +92,15 @@
               </p>
             </a>
           </li>
+          <li class="nav-item">
+            <a href="phpfunction/logout.php" class="nav-link">
+              <i class="fas fa-sign-out-alt p-0 m-0 mr-1 text-light"></i>
+              <p class="text-white">
+                SIGN OUT
+                <!-- <span class="right badge badge-danger">New</span> -->
+              </p>
+            </a>
+          </li>
         </ul>
       </nav>
       <!-- /.sidebar-menu -->
